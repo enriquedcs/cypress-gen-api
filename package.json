@@ -1,0 +1,20 @@
+{
+  "name": "cypress-gen-api",
+  "version": "1.0.0",
+  "description": "Automation API, Cypress, Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Testing",
+    "cypress"
+  ],
+  "author": "enrique dckss",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "prettier": "^2.6.2"
+  }
+}

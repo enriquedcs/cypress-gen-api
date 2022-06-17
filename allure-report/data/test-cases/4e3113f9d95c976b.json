@@ -1,0 +1,74 @@
+{
+  "uid" : "4e3113f9d95c976b",
+  "name" : "API - Validate Status Code",
+  "fullName" : "APi Test using Cypress.API - Validate Status Code",
+  "historyId" : "4a9d2d1ab2dfa2a354cb7e45a2d465a5",
+  "time" : {
+    "start" : 1655500475443,
+    "stop" : 1655500475665,
+    "duration" : 222
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "APi Test using Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "APi Test using Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "API - Validate Status Code"
+  }, {
+    "name" : "package",
+    "value" : "APi Test using Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "82365de2599bf524",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655479616041,
+        "stop" : 1655479616319,
+        "duration" : 278
+      }
+    }, {
+      "uid" : "e1230996e59b9adc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655479504100,
+        "stop" : 1655479504373,
+        "duration" : 273
+      }
+    }, {
+      "uid" : "5ac62bf2a69cbe20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655478171256,
+        "stop" : 1655478171459,
+        "duration" : 203
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e3113f9d95c976b.json",
+  "parameterValues" : [ ]
+}

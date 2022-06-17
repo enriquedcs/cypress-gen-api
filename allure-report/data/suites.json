@@ -1,0 +1,94 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "APi Test using Cypress",
+    "children" : [ {
+      "name" : "API - Validate Headers",
+      "uid" : "f849b11172648627",
+      "parentUid" : "009febda79263c861958382b9e7046d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655500474927,
+        "stop" : 1655500475432,
+        "duration" : 505
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "API - Validate Status Code",
+      "uid" : "4e3113f9d95c976b",
+      "parentUid" : "009febda79263c861958382b9e7046d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655500475443,
+        "stop" : 1655500475665,
+        "duration" : 222
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "API - Validate Content Values",
+      "uid" : "16c1837a793bf34b",
+      "parentUid" : "009febda79263c861958382b9e7046d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655500475674,
+        "stop" : 1655500475913,
+        "duration" : 239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "API - Validate Negative status code",
+      "uid" : "e46f02c672740149",
+      "parentUid" : "009febda79263c861958382b9e7046d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655500475919,
+        "stop" : 1655500477651,
+        "duration" : 1732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "API - Mocking a Response",
+      "uid" : "576a7f569a4666f6",
+      "parentUid" : "009febda79263c861958382b9e7046d4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1655500477667,
+        "stop" : 0,
+        "duration" : -1655500477667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "009febda79263c861958382b9e7046d4"
+  } ]
+}

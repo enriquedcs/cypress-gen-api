@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "009febda79263c861958382b9e7046d4",
+    "name" : "APi Test using Cypress",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 1,
+      "total" : 5
+    }
+  } ]
+}

@@ -1,0 +1,110 @@
+{
+  "uid" : "576a7f569a4666f6",
+  "name" : "API - Mocking a Response",
+  "fullName" : "APi Test using Cypress.API - Mocking a Response",
+  "historyId" : "b5b295ea8aed7ccce027bd2d93ab0c96",
+  "time" : {
+    "start" : 1655500477667,
+    "stop" : 0,
+    "duration" : -1655500477667
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "APi Test using Cypress"
+  }, {
+    "name" : "testClass",
+    "value" : "APi Test using Cypress"
+  }, {
+    "name" : "testMethod",
+    "value" : "API - Mocking a Response"
+  }, {
+    "name" : "package",
+    "value" : "APi Test using Cypress"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9263170210f97f21",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1655500477666,
+        "stop" : 1655500477666,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aaefa23b9912652",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1655479616648,
+        "stop" : 1655479616648,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f86362d6c03c712e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1655479616648,
+        "stop" : 0,
+        "duration" : -1655479616648
+      }
+    }, {
+      "uid" : "697b897b5d7220b0",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1655479506181,
+        "stop" : 1655479506181,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c35d4818a063eccc",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1655479506181,
+        "stop" : 0,
+        "duration" : -1655479506181
+      }
+    }, {
+      "uid" : "5033dcc9bf33116a",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1655478173099,
+        "stop" : 1655478173099,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a715a15113804bf3",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1655478173099,
+        "stop" : 0,
+        "duration" : -1655478173099
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "576a7f569a4666f6.json",
+  "parameterValues" : [ ]
+}

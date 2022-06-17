@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-import config from './config.json'
+import config from '../integration/config.json'
 
 describe('APi Test using Cypress', () => {
     it('API - Validate Headers', () => {
@@ -40,6 +40,12 @@ describe('APi Test using Cypress', () => {
             failOnStatusCode: false,
         }).as('poke')
         cy.get('@poke').its('status').should('equal', 404)
+    })
+
+    it.skip('API - Mocking a Response', () => {
+        cy.intercept('GET', '/pokemon/*', {fixture:'tags.json'})
+        cy.get('pokemon')
+
     })
 
 })

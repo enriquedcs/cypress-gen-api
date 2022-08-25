@@ -5,7 +5,7 @@
     "name" : "APi Test using Cypress",
     "children" : [ {
       "name" : "API - Validate Headers",
-      "uid" : "f849b11172648627",
+      "uid" : "854e5871d0ee9ab7",
       "parentUid" : "009febda79263c861958382b9e7046d4",
       "status" : "passed",
       "time" : {
@@ -22,7 +22,7 @@
       "parameters" : [ ]
     }, {
       "name" : "API - Validate Status Code",
-      "uid" : "4e3113f9d95c976b",
+      "uid" : "398933579badf5aa",
       "parentUid" : "009febda79263c861958382b9e7046d4",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
       "parameters" : [ ]
     }, {
       "name" : "API - Validate Content Values",
-      "uid" : "16c1837a793bf34b",
+      "uid" : "7ea7f306ad9b2ab5",
       "parentUid" : "009febda79263c861958382b9e7046d4",
       "status" : "passed",
       "time" : {
@@ -56,7 +56,7 @@
       "parameters" : [ ]
     }, {
       "name" : "API - Validate Negative status code",
-      "uid" : "e46f02c672740149",
+      "uid" : "b7cb71095b6f1965",
       "parentUid" : "009febda79263c861958382b9e7046d4",
       "status" : "passed",
       "time" : {
@@ -73,7 +73,7 @@
       "parameters" : [ ]
     }, {
       "name" : "API - Mocking a Response",
-      "uid" : "576a7f569a4666f6",
+      "uid" : "2170d6cceaacd4",
       "parentUid" : "009febda79263c861958382b9e7046d4",
       "status" : "unknown",
       "time" : {
@@ -90,5 +90,26 @@
       "parameters" : [ ]
     } ],
     "uid" : "009febda79263c861958382b9e7046d4"
+  }, {
+    "name" : "Obtener detalles del contenido del documento contrato",
+    "children" : [ {
+      "name" : "API - Create PDF from Documento",
+      "uid" : "1fbc0ccf0d4cb380",
+      "parentUid" : "a480d2551e50cf47e68226da481de45b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656008862690,
+        "stop" : 1656008863268,
+        "duration" : 578
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a480d2551e50cf47e68226da481de45b"
   } ]
 }

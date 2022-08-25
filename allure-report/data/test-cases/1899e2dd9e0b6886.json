@@ -1,16 +1,18 @@
 {
-  "uid" : "f86362d6c03c712e",
+  "uid" : "1899e2dd9e0b6886",
   "name" : "API - Mocking a Response",
   "fullName" : "APi Test using Cypress.API - Mocking a Response",
   "historyId" : "b5b295ea8aed7ccce027bd2d93ab0c96",
   "time" : {
-    "start" : 1655479616648,
-    "stop" : 0,
-    "duration" : -1655479616648
+    "start" : 1655478173099,
+    "stop" : 1655478173099,
+    "duration" : 0
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "unknown",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -43,6 +45,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f86362d6c03c712e.json",
+  "source" : "1899e2dd9e0b6886.json",
   "parameterValues" : [ ]
 }

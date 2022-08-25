@@ -1,12 +1,12 @@
 {
-  "uid" : "f849b11172648627",
-  "name" : "API - Validate Headers",
-  "fullName" : "APi Test using Cypress.API - Validate Headers",
-  "historyId" : "db9b5ce698cfefe7b6c1c5c706f096f6",
+  "uid" : "398933579badf5aa",
+  "name" : "API - Validate Status Code",
+  "fullName" : "APi Test using Cypress.API - Validate Status Code",
+  "historyId" : "4a9d2d1ab2dfa2a354cb7e45a2d465a5",
   "time" : {
-    "start" : 1655500474927,
-    "stop" : 1655500475432,
-    "duration" : 505
+    "start" : 1655500475443,
+    "stop" : 1655500475665,
+    "duration" : 222
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,7 +27,7 @@
     "value" : "APi Test using Cypress"
   }, {
     "name" : "testMethod",
-    "value" : "API - Validate Headers"
+    "value" : "API - Validate Status Code"
   }, {
     "name" : "package",
     "value" : "APi Test using Cypress"
@@ -42,33 +42,33 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "21a46c70af28c0d4",
+      "uid" : "dd6d18f487a93c47",
       "status" : "passed",
       "time" : {
-        "start" : 1655479615609,
-        "stop" : 1655479616034,
-        "duration" : 425
+        "start" : 1655479616041,
+        "stop" : 1655479616319,
+        "duration" : 278
       }
     }, {
-      "uid" : "33285e63e4bbae40",
+      "uid" : "52f40df275572f59",
       "status" : "passed",
       "time" : {
-        "start" : 1655479503532,
-        "stop" : 1655479504093,
-        "duration" : 561
+        "start" : 1655479504100,
+        "stop" : 1655479504373,
+        "duration" : 273
       }
     }, {
-      "uid" : "4126fbdb68515a4a",
+      "uid" : "362f37df22718c44",
       "status" : "passed",
       "time" : {
-        "start" : 1655478170829,
-        "stop" : 1655478171253,
-        "duration" : 424
+        "start" : 1655478171256,
+        "stop" : 1655478171459,
+        "duration" : 203
       }
     } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f849b11172648627.json",
+  "source" : "398933579badf5aa.json",
   "parameterValues" : [ ]
 }

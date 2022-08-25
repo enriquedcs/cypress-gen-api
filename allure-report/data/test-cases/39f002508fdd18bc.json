@@ -1,12 +1,12 @@
 {
-  "uid" : "e1230996e59b9adc",
-  "name" : "API - Validate Status Code",
-  "fullName" : "APi Test using Cypress.API - Validate Status Code",
-  "historyId" : "4a9d2d1ab2dfa2a354cb7e45a2d465a5",
+  "uid" : "39f002508fdd18bc",
+  "name" : "API - Create PDF from Documento",
+  "fullName" : "Obtener detalles del contenido del documento contrato.API - Create PDF from Documento",
+  "historyId" : "9234b8c71e0e098f1ed21f1f6464237f",
   "time" : {
-    "start" : 1655479504100,
-    "stop" : 1655479504373,
-    "duration" : 273
+    "start" : 1655742461742,
+    "stop" : 1655742462214,
+    "duration" : 472
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -21,16 +21,16 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "suite",
-    "value" : "APi Test using Cypress"
+    "value" : "Obtener detalles del contenido del documento contrato"
   }, {
     "name" : "testClass",
-    "value" : "APi Test using Cypress"
+    "value" : "Obtener detalles del contenido del documento contrato"
   }, {
     "name" : "testMethod",
-    "value" : "API - Validate Status Code"
+    "value" : "API - Create PDF from Documento"
   }, {
     "name" : "package",
-    "value" : "APi Test using Cypress"
+    "value" : "Obtener detalles del contenido del documento contrato"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e1230996e59b9adc.json",
+  "source" : "39f002508fdd18bc.json",
   "parameterValues" : [ ]
 }

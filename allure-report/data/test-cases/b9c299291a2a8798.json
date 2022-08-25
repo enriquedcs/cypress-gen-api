@@ -1,12 +1,12 @@
 {
-  "uid" : "3c1fbe8058699851",
-  "name" : "API - Validate Negative status code",
-  "fullName" : "APi Test using Cypress.API - Validate Negative status code",
-  "historyId" : "f63a1b694e52c4af22295de09c29559f",
+  "uid" : "b9c299291a2a8798",
+  "name" : "API - Validate Headers",
+  "fullName" : "APi Test using Cypress.API - Validate Headers",
+  "historyId" : "db9b5ce698cfefe7b6c1c5c706f096f6",
   "time" : {
-    "start" : 1655479616508,
-    "stop" : 1655479616638,
-    "duration" : 130
+    "start" : 1655479503532,
+    "stop" : 1655479504093,
+    "duration" : 561
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,7 +27,7 @@
     "value" : "APi Test using Cypress"
   }, {
     "name" : "testMethod",
-    "value" : "API - Validate Negative status code"
+    "value" : "API - Validate Headers"
   }, {
     "name" : "package",
     "value" : "APi Test using Cypress"
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "3c1fbe8058699851.json",
+  "source" : "b9c299291a2a8798.json",
   "parameterValues" : [ ]
 }

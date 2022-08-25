@@ -1,16 +1,16 @@
 {
-  "uid" : "82365de2599bf524",
-  "name" : "API - Validate Status Code",
-  "fullName" : "APi Test using Cypress.API - Validate Status Code",
-  "historyId" : "4a9d2d1ab2dfa2a354cb7e45a2d465a5",
+  "uid" : "c22b4f8fd86ad19b",
+  "name" : "API - Mocking a Response",
+  "fullName" : "APi Test using Cypress.API - Mocking a Response",
+  "historyId" : "b5b295ea8aed7ccce027bd2d93ab0c96",
   "time" : {
-    "start" : 1655479616041,
-    "stop" : 1655479616319,
-    "duration" : 278
+    "start" : 1655479506181,
+    "stop" : 0,
+    "duration" : -1655479506181
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "passed",
+  "status" : "unknown",
   "flaky" : false,
   "newFailed" : false,
   "newBroken" : false,
@@ -27,7 +27,7 @@
     "value" : "APi Test using Cypress"
   }, {
     "name" : "testMethod",
-    "value" : "API - Validate Status Code"
+    "value" : "API - Mocking a Response"
   }, {
     "name" : "package",
     "value" : "APi Test using Cypress"
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "82365de2599bf524.json",
+  "source" : "c22b4f8fd86ad19b.json",
   "parameterValues" : [ ]
 }

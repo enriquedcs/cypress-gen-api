@@ -1,12 +1,12 @@
 {
-  "uid" : "e0d3cd9c17aaf5f4",
-  "name" : "API - Validate Content Values",
-  "fullName" : "APi Test using Cypress.API - Validate Content Values",
-  "historyId" : "3a344a1a59af17943d1dba332da1defa",
+  "uid" : "2958cca765ce8a15",
+  "name" : "API - Validate Headers",
+  "fullName" : "APi Test using Cypress.API - Validate Headers",
+  "historyId" : "db9b5ce698cfefe7b6c1c5c706f096f6",
   "time" : {
-    "start" : 1655478171459,
-    "stop" : 1655478171624,
-    "duration" : 165
+    "start" : 1655479615609,
+    "stop" : 1655479616034,
+    "duration" : 425
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -27,7 +27,7 @@
     "value" : "APi Test using Cypress"
   }, {
     "name" : "testMethod",
-    "value" : "API - Validate Content Values"
+    "value" : "API - Validate Headers"
   }, {
     "name" : "package",
     "value" : "APi Test using Cypress"
@@ -43,6 +43,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "e0d3cd9c17aaf5f4.json",
+  "source" : "2958cca765ce8a15.json",
   "parameterValues" : [ ]
 }

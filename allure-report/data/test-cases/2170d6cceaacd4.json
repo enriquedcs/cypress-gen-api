@@ -1,5 +1,5 @@
 {
-  "uid" : "576a7f569a4666f6",
+  "uid" : "2170d6cceaacd4",
   "name" : "API - Mocking a Response",
   "fullName" : "APi Test using Cypress.API - Mocking a Response",
   "historyId" : "b5b295ea8aed7ccce027bd2d93ab0c96",
@@ -42,7 +42,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "9263170210f97f21",
+      "uid" : "a914192df397a073",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
@@ -51,7 +51,7 @@
         "duration" : 0
       }
     }, {
-      "uid" : "aaefa23b9912652",
+      "uid" : "4f0445bf08968424",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
@@ -60,7 +60,7 @@
         "duration" : 0
       }
     }, {
-      "uid" : "f86362d6c03c712e",
+      "uid" : "9142f5066fb187ef",
       "status" : "unknown",
       "time" : {
         "start" : 1655479616648,
@@ -68,7 +68,15 @@
         "duration" : -1655479616648
       }
     }, {
-      "uid" : "697b897b5d7220b0",
+      "uid" : "c22b4f8fd86ad19b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1655479506181,
+        "stop" : 0,
+        "duration" : -1655479506181
+      }
+    }, {
+      "uid" : "2f8186ff9c8bfdd9",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
@@ -77,15 +85,15 @@
         "duration" : 0
       }
     }, {
-      "uid" : "c35d4818a063eccc",
+      "uid" : "68bfbac82b1582c0",
       "status" : "unknown",
       "time" : {
-        "start" : 1655479506181,
+        "start" : 1655478173099,
         "stop" : 0,
-        "duration" : -1655479506181
+        "duration" : -1655478173099
       }
     }, {
-      "uid" : "5033dcc9bf33116a",
+      "uid" : "1899e2dd9e0b6886",
       "status" : "skipped",
       "statusDetails" : "Test ignored",
       "time" : {
@@ -93,18 +101,10 @@
         "stop" : 1655478173099,
         "duration" : 0
       }
-    }, {
-      "uid" : "a715a15113804bf3",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1655478173099,
-        "stop" : 0,
-        "duration" : -1655478173099
-      }
     } ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "576a7f569a4666f6.json",
+  "source" : "2170d6cceaacd4.json",
   "parameterValues" : [ ]
 }

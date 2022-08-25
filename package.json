@@ -4,7 +4,7 @@
   "description": "Automation API, Cypress, Testing",
   "main": "index.js",
   "scripts": {
-    "cy:clientLogin": "cypress run --spec \"/Users/enrique.decoss/Documents/cypress-gen-API/cypress/integration/api.spec.js\" --reporter mocha-allure-reporter",
+    "cy:clientLogin": "cypress run --spec \"/Users/enrique.decoss/Documents/cypress-gen-API/cypress/integration/test.contract.spec.js\" --reporter mocha-allure-reporter",
     "report:allure": "allure generate allure-results --clean -o allure-report && allure open  allure-report",
     "test:allure": "npm run cy:clientLogin && npm run report:allure"
   },
